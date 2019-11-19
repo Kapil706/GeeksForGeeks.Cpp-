@@ -1,0 +1,3 @@
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/moduloInverse/cmake-build-debug/CMakeFiles/moduloInverse.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/moduloInverse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/moduloInverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir

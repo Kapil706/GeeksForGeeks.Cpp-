@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\PositiveNegativePair.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\PositiveNegativePair.dir/objects.a @CMakeFiles\PositiveNegativePair.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PositiveNegativePair.dir/objects.a -Wl,--no-whole-archive  -o PositiveNegativePair.exe -Wl,--out-implib,libPositiveNegativePair.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PositiveNegativePair.dir\linklibs.rsp

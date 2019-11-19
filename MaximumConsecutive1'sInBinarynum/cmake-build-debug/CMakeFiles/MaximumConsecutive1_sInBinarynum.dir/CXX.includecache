@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/MaximumConsecutive1'sInBinarynum/main.cpp
+iostream
+-
+

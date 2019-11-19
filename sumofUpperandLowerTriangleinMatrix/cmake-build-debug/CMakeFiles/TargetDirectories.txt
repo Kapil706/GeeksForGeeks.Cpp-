@@ -1,0 +1,3 @@
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/sumofUpperandLowerTriangleinMatrix/cmake-build-debug/CMakeFiles/sumofUpperandLowerTriangleinMatrix.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/sumofUpperandLowerTriangleinMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/sumofUpperandLowerTriangleinMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

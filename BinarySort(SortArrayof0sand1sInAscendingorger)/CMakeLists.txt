@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(BinarySort_SortArrayof0sand1sInAscendingorger_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(BinarySort_SortArrayof0sand1sInAscendingorger_ main.cpp)

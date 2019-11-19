@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(Method2ofSumofUpperandLowerTriangleMatrix)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Method2ofSumofUpperandLowerTriangleMatrix main.cpp)

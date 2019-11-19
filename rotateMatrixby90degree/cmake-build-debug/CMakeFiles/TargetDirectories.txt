@@ -1,0 +1,3 @@
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/rotateMatrixby90degree/cmake-build-debug/CMakeFiles/rotateMatrixby90degree.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/rotateMatrixby90degree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/rotateMatrixby90degree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

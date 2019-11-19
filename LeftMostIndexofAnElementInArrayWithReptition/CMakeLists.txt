@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(LeftMostIndexofAnElementInArrayWithReptition)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(LeftMostIndexofAnElementInArrayWithReptition main.cpp)

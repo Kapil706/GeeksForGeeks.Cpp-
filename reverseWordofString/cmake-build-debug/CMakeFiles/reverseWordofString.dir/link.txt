@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\reverseWordofString.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\reverseWordofString.dir/objects.a @CMakeFiles\reverseWordofString.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\reverseWordofString.dir/objects.a -Wl,--no-whole-archive  -o reverseWordofString.exe -Wl,--out-implib,libreverseWordofString.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\reverseWordofString.dir\linklibs.rsp

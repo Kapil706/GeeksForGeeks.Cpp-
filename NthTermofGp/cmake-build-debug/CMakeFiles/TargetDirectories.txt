@@ -1,0 +1,3 @@
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/NthTermofGp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/NthTermofGp/cmake-build-debug/CMakeFiles/NthTermofGp.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/NthTermofGp/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\CelsiusToFahrenheit.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\CelsiusToFahrenheit.dir/objects.a @CMakeFiles\CelsiusToFahrenheit.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CelsiusToFahrenheit.dir/objects.a -Wl,--no-whole-archive  -o CelsiusToFahrenheit.exe -Wl,--out-implib,libCelsiusToFahrenheit.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CelsiusToFahrenheit.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/SparseNumberi.eNumberwithNonConsecutiveSetBits/cmake-build-debug/CMakeFiles/SparseNumberi_eNumberwithNonConsecutiveSetBits.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/SparseNumberi.eNumberwithNonConsecutiveSetBits/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/SparseNumberi.eNumberwithNonConsecutiveSetBits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

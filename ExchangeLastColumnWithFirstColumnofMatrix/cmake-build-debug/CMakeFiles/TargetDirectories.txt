@@ -1,0 +1,3 @@
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/ExchangeLastColumnWithFirstColumnofMatrix/cmake-build-debug/CMakeFiles/ExchangeLastColumnWithFirstColumnofMatrix.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/ExchangeLastColumnWithFirstColumnofMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/ExchangeLastColumnWithFirstColumnofMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

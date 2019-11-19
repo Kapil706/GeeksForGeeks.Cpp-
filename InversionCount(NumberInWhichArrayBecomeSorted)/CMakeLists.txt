@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(InversionCount_NumberInWhichArrayBecomeSorted_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(InversionCount_NumberInWhichArrayBecomeSorted_ main.cpp)

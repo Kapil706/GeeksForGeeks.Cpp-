@@ -1,0 +1,3 @@
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/OptimizedPrime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/OptimizedPrime/cmake-build-debug/CMakeFiles/OptimizedPrime.dir
+C:/Users/kapil/CLionProjects/GeeksForGeeks.Cpp-/OptimizedPrime/cmake-build-debug/CMakeFiles/edit_cache.dir
